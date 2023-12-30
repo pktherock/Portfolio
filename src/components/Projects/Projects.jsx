@@ -49,7 +49,7 @@ import authenticationApp from "../../assets/img/Project/Authentication.png";
 import stopwatch from "../../assets/img/Project/Stopwatch.png";
 import digitalClock from "../../assets/img/Project/Digital-Clock.png";
 import analogClock from "../../assets/img/Project/Analog-Clock.png";
-import pageNotFound from "../../assets/img/Project/404-Page.png";
+import pageNotFound from "../../assets/img/Project/404-page.png";
 
 const projects = [
   {
