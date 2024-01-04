@@ -84,7 +84,7 @@ const projects = [
     id: 5,
     name: "React Redux CART App",
     imageUrl: reactReduxCartApp,
-    githubLink: "https://github.com/pktherock/React-Redux-Cart-App", // todo
+    githubLink: "https://github.com/pktherock/React-Redux-Cart-App",
     viewLink: "https://react-redux-cart-app.vercel.app/",
   },
   {
